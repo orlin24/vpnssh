@@ -1,0 +1,11 @@
+{
+	"Transport": "direct",
+	"ProxyMethod":"openvpn",
+	"EncryptionMethod":"chacha20-poly1305",
+	"UID":"hlG5kZ2bZEwdj13WK1OHIQ==",
+	"PublicKey":"Z6/lqtRlFchCa4UK2i59oNj7wBqwEjItIzp6lrgIngU=",
+	"ServerName":"googlevideo.com",
+	"NumConn":1,
+	"BrowserSig":"chrome",
+	"StreamTimeout": 300
+	}
